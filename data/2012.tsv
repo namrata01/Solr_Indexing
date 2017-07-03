@@ -1,0 +1,229 @@
+id	hiredate	firstname	lastname	salary	city	state	zipcode	department
+1195	2012-01-01 09:00:00	Otis	Huss	55000	Portland	OR	97286	Sales
+1196	2012-01-01 09:00:00	Rickie	Calderon	51800	Las Vegas	NV	89101	Sales
+1197	2012-01-01 09:00:00	Robin	Levin	64700	San Bernardino	CA	92488	Operations
+1198	2012-01-01 09:00:00	Sandy	Bristol	66000	Portland	OR	97216	Operations
+1199	2012-01-08 09:00:00	Wanda	Emmons	59900	Flagstaff	AZ	86074	Operations
+1200	2012-01-15 09:00:00	Andrew	Stanton	72500	Portland	OR	97141	Operations
+1201	2012-01-15 09:00:00	Mabel	Hayes	39900	Eugene	OR	97429	Customer Support
+1202	2012-01-15 09:00:00	Scott	Hastings	37100	Medford	OR	97559	Facilities Management
+1203	2012-01-15 09:00:00	Tina	Volpe	70600	Santa Barbara	CA	93168	Technical Publications
+1204	2012-01-22 09:00:00	Rose	Pryor	45900	Bakersfield	CA	93319	Sales
+1205	2012-01-22 09:00:00	Tonya	Bates	72400	Industry	CA	91720	Operations
+1206	2012-01-22 09:00:00	Tracy	Frost	57100	Palm Springs	CA	92252	Operations
+1207	2012-01-29 09:00:00	Catherine	Lowe	87900	San Diego	CA	92020	Web Development
+1208	2012-01-29 09:00:00	Luis	Tinsley	57400	Redding	CA	96024	Operations
+1209	2012-01-29 09:00:00	Phyllis	Irwin	69100	San Bernardino	CA	92433	Technical Publications
+1210	2012-01-29 09:00:00	Ryan	Wescott	63900	Medford	OR	97587	Operations
+1211	2012-01-29 09:00:00	Ulysses	Wolff	84400	San Diego	CA	92103	Business Intelligence
+1212	2012-01-30 09:00:00	Jeffrey	Thacker	50900	Long Beach	CA	90700	Operations
+1213	2012-02-05 09:00:00	Colleen	Norton	69100	San Diego	CA	92136	Technical Publications
+1214	2012-02-05 09:00:00	Glen	Ogle	64500	Phoenix	AZ	85274	Operations
+1215	2012-02-05 09:00:00	Monica	McDonald	40600	Stockton	CA	95285	Customer Support
+1216	2012-02-05 09:00:00	Rachel	Johnson	72700	Santa Monica	CA	90423	Corporate Communication
+1217	2012-02-12 09:00:00	Billy	Schaeffer	54900	Los Angeles	CA	90026	Corporate Services
+1218	2012-02-13 09:00:00	Jennifer	Lux	56400	Santa Rosa	CA	95450	Operations
+1219	2012-02-19 09:00:00	Bonnie	Cordero	64100	San Francisco	CA	94038	IT
+1220	2012-02-19 09:00:00	Kelly	Pass	35800	Los Angeles	CA	90045	Facilities Management
+1221	2012-02-20 09:00:00	Kirby	Rodriguez	106500	San Jose	CA	95063	Engineering
+1222	2012-02-26 09:00:00	Andrea	Gillespie	75800	Mojave	CA	93592	Web Development
+1223	2012-02-26 09:00:00	Jody	Romero	59500	Phoenix	AZ	85229	Operations
+1224	2012-02-26 09:00:00	Lindsay	Fontenot	60400	Tucson	AZ	85746	Sales
+1225	2012-02-26 09:00:00	Patricia	Russell	86600	Eugene	OR	97495	Engineering
+1226	2012-03-04 09:00:00	Anton	Kolb	81800	Van Nuys	CA	91467	Web Development
+1227	2012-03-04 09:00:00	Christopher	Wright	44900	Klamath Falls	OR	97623	Customer Support
+1228	2012-03-04 09:00:00	Jefferson	Kinlaw	92000	Eugene	OR	97419	Engineering
+1229	2012-03-04 09:00:00	Joshua	Sherry	80700	Palm Springs	CA	92208	Marketing
+1230	2012-03-04 09:00:00	Luis	Byrd	43600	Los Angeles	CA	90032	Sales
+1231	2012-03-04 09:00:00	Percy	Carver	65100	Palo Alto	CA	94323	Technical Publications
+1232	2012-03-11 09:00:00	Holly	Olsen	74600	Santa Ana	CA	92717	Corporate Communication
+1233	2012-03-11 09:00:00	Joseph	Briggs	52500	Stockton	CA	95223	Sales
+1234	2012-03-11 09:00:00	Mark	Swanson	53200	Phoenix	AZ	85094	Sales
+1235	2012-03-11 09:00:00	Theresa	Baker	49900	Van Nuys	CA	91373	Sales
+1236	2012-03-11 09:00:00	William	Stockton	69100	Alhambra	CA	91880	Human Resources
+1237	2012-03-18 09:00:00	Antonio	Burger	42000	Show Low	AZ	85984	Sales
+1238	2012-03-18 09:00:00	Demetrius	Rodrigues	57100	Fresno	CA	93859	Facilities Management
+1239	2012-03-18 09:00:00	Glen	Dutra	72200	Oxnard	CA	93059	Operations
+1240	2012-03-18 09:00:00	James	Powell	49200	Las Vegas	NV	88902	Sales
+1241	2012-03-18 09:00:00	Mae	Teel	86800	Los Angeles	CA	90111	IT
+1242	2012-03-25 09:00:00	Christina	Cornish	58800	Kingman	AZ	86439	Sales
+1243	2012-03-25 09:00:00	Margaret	Petersen	61400	Phoenix	AZ	85250	Sales
+1244	2012-03-26 09:00:00	Jason	Hill	41300	Phoenix	AZ	85163	Customer Support
+1245	2012-04-01 09:00:00	Janie	Burdett	54500	Anaheim	CA	92875	Operations
+1246	2012-04-08 09:00:00	Dorothy	Sloan	97900	Oxnard	CA	93089	Business Intelligence
+1247	2012-04-08 09:00:00	Kathleen	Cain	73200	Sacramento	CA	94297	IT
+1248	2012-04-08 09:00:00	Robert	King	67500	San Bernardino	CA	92485	Operations
+1249	2012-04-10 09:00:00	Jonas	Wilson	53000	San Diego	CA	92102	Operations
+1250	2012-04-15 09:00:00	Brain	Rivera	65000	Flagstaff	AZ	86010	Operations
+1251	2012-04-15 09:00:00	Crystal	Estes	42500	Riverside	CA	92581	Customer Support
+1252	2012-04-15 09:00:00	Lillian	Luna	79300	Richmond	CA	94863	IT
+1253	2012-04-16 09:00:00	Sammie	Peden	44400	Globe	AZ	85585	Sales
+1254	2012-04-17 09:00:00	Mildred	Li	66600	Reno	NV	89402	Operations
+1255	2012-04-22 09:00:00	Brian	Collins	70900	Sacramento	CA	95737	Technical Publications
+1256	2012-04-22 09:00:00	Helen	Hailey	65600	Long Beach	CA	90632	Quality Assurance
+1257	2012-04-22 09:00:00	John	Schaff	44400	Klamath Falls	OR	97609	Customer Support
+1258	2012-04-22 09:00:00	Kai	Deutschmann	38800	Bakersfield	CA	93381	Customer Support
+1259	2012-04-22 09:00:00	Margaret	Salisbury	90500	Elko	NV	89876	Engineering
+1260	2012-04-22 09:00:00	Percy	Fitch	72800	Santa Ana	CA	92762	IT
+1261	2012-04-29 09:00:00	Margie	Allen	69400	Los Angeles	CA	90013	Quality Assurance
+1262	2012-04-29 09:00:00	Melissa	Gross	80400	Santa Rosa	CA	95419	IT
+1263	2012-04-29 09:00:00	Woodrow	Shepherd	65800	Long Beach	CA	90888	Corporate Services
+1264	2012-05-01 09:00:00	Jennifer	Kern	89400	Elko	NV	89813	Engineering
+1265	2012-05-06 09:00:00	Amy	Carrillo	51900	Santa Ana	CA	92683	Sales
+1266	2012-05-06 09:00:00	Andrea	Hanson	64300	San Diego	CA	91931	Operations
+1267	2012-05-06 09:00:00	Josh	Ellington	75500	Torrance	CA	90566	Engineering
+1268	2012-05-06 09:00:00	Rick	Smiley	56200	San Francisco	CA	94029	Operations
+1269	2012-05-06 09:00:00	Teri	Merriwether	38600	Fresno	CA	93612	Customer Support
+1270	2012-05-13 09:00:00	Jacqueline	Bowens	73900	Glendale	CA	91244	Regulatory Compliance
+1271	2012-05-13 09:00:00	Mary	Malcolm	83100	Eureka	CA	95546	Human Resources
+1272	2012-05-14 09:00:00	Armando	Hernandez	57200	Carson City	NV	89784	Sales
+1273	2012-05-14 09:00:00	Sharon	Quarles	42400	Medford	OR	97578	Facilities Management
+1274	2012-05-20 09:00:00	Dana	Lafrance	64000	Marysville	CA	95905	Purchasing
+1275	2012-05-21 09:00:00	Luis	Garcia	52600	Klamath Falls	OR	97605	Sales
+1276	2012-05-27 09:00:00	Judy	Power	74300	Santa Barbara	CA	93118	Engineering
+1277	2012-05-27 09:00:00	Latoya	Lima	43700	Phoenix	AZ	85051	Sales
+1278	2012-05-27 09:00:00	Teresa	Hendrickson	131900	Salinas	CA	93903	Legal
+1279	2012-06-03 09:00:00	Bobby	Ott	51700	Oakland	CA	94584	Sales
+1280	2012-06-03 09:00:00	Brandon	Reyna	61700	Industry	CA	91734	Technical Publications
+1281	2012-06-03 09:00:00	Jefferson	Wentworth	101500	Phoenix	AZ	85079	Engineering
+1282	2012-06-03 09:00:00	Rick	Baughman	67000	Long Beach	CA	90684	Technical Publications
+1283	2012-06-03 09:00:00	Verna	Jacobson	69600	Palm Springs	CA	92245	Technical Publications
+1284	2012-06-05 09:00:00	Susan	Pollard	51400	Riverside	CA	92592	Sales
+1285	2012-06-10 09:00:00	Sarah	Griffin	74600	Marysville	CA	95909	Engineering
+1286	2012-06-11 09:00:00	Danielle	Jones	47600	San Diego	CA	91959	Facilities Management
+1287	2012-06-11 09:00:00	Dustin	Hwang	63000	Portland	OR	97229	Operations
+1288	2012-06-11 09:00:00	Lois	Lewis	73700	Sacramento	CA	95897	Corporate Communication
+1289	2012-06-17 09:00:00	David	Cotton	78800	Industry	CA	91728	Accounting
+1290	2012-06-17 09:00:00	Harry	Fogle	55800	San Diego	CA	92072	Operations
+1291	2012-06-17 09:00:00	James	Hicks	46100	Las Vegas	NV	89172	Customer Support
+1292	2012-06-24 09:00:00	Amy	Jacoby	43700	Pasadena	CA	91125	Sales
+1293	2012-06-24 09:00:00	Angela	Bermudez	73000	Santa Ana	CA	92647	Technical Publications
+1294	2012-06-24 09:00:00	Annie	Rhoads	51100	Pasadena	CA	91117	Purchasing
+1295	2012-06-24 09:00:00	Clarence	Burnette	50600	Globe	AZ	85573	Facilities Management
+1296	2012-06-24 09:00:00	Dorothy	Ordonez	46500	Reno	NV	89595	Sales
+1297	2012-06-24 09:00:00	Edward	Trombley	47200	Klamath Falls	OR	97610	Sales
+1298	2012-06-24 09:00:00	Herbert	Jackson	93400	Mojave	CA	93572	Web Development
+1299	2012-06-25 09:00:00	Laura	Letson	43300	Bakersfield	CA	93313	Customer Support
+1300	2012-07-01 09:00:00	Barbara	Thomas	85600	Oakland	CA	94517	Web Development
+1301	2012-07-01 09:00:00	Cecil	Haines	51000	San Jose	CA	95049	Sales
+1302	2012-07-01 09:00:00	Dallas	Flowers	40000	Portland	OR	97200	Facilities Management
+1303	2012-07-02 09:00:00	Dennis	Berry	47400	Marysville	CA	95935	Sales
+1304	2012-07-08 09:00:00	Chris	Harbour	131200	San Diego	CA	91914	Data Science
+1305	2012-07-08 09:00:00	Joseph	Shockley	70400	Torrance	CA	90566	Operations
+1306	2012-07-08 09:00:00	Paula	Spivey	53100	Long Beach	CA	90738	Corporate Services
+1307	2012-07-08 09:00:00	Paul	Sandoval	67200	Santa Barbara	CA	93436	Marketing
+1308	2012-07-08 09:00:00	Philip	Baugh	87900	Ely	NV	89332	Engineering
+1309	2012-07-10 09:00:00	Evan	Patten	143600	San Jose	CA	95001	Legal
+1310	2012-07-15 09:00:00	Floyd	Cook	89000	Santa Ana	CA	92666	Business Intelligence
+1311	2012-07-15 09:00:00	Lucinda	Fong	67900	Sacramento	CA	94285	Quality Assurance
+1312	2012-07-16 09:00:00	Nicole	Billings	45300	Berkeley	CA	94768	Sales
+1313	2012-07-17 09:00:00	Angelica	Dempsey	77400	Berkeley	CA	94724	IT
+1314	2012-07-22 09:00:00	Bruce	Adamson	62400	Elko	NV	89873	Operations
+1315	2012-07-22 09:00:00	Jessica	Childs	73800	Stockton	CA	95346	Engineering
+1316	2012-07-22 09:00:00	Kathleen	Trout	56800	Santa Rosa	CA	94962	Purchasing
+1317	2012-07-23 09:00:00	Freddy	Shubert	86400	San Francisco	CA	94151	IT
+1318	2012-07-23 09:00:00	Grace	Lawson	66300	North Hollywood	CA	91692	Technical Publications
+1319	2012-07-29 09:00:00	Kelly	Zavala	68800	Anaheim	CA	92826	Technical Publications
+1320	2012-07-29 09:00:00	Marco	Fusco	69200	Fresno	CA	93734	Regulatory Compliance
+1321	2012-07-29 09:00:00	Nancy	Garcia	53900	Tucson	AZ	85797	Facilities Management
+1322	2012-07-29 09:00:00	Victor	Koch	88000	Stockton	CA	95332	Accounting
+1323	2012-07-30 09:00:00	Phil	Mooney	50900	Globe	AZ	85544	Operations
+1324	2012-08-05 09:00:00	Alyssa	Cha	59300	Prescott	AZ	86320	Operations
+1325	2012-08-05 09:00:00	Lindsay	Bender	90700	Las Vegas	NV	89104	Engineering
+1326	2012-08-05 09:00:00	Sara	Quinn	87500	Sacramento	CA	95709	Accounting
+1327	2012-08-05 09:00:00	Teresa	Mercurio	60600	Elko	NV	89810	Operations
+1328	2012-08-07 09:00:00	Joseph	Garcia	42400	Medford	OR	97520	Sales
+1329	2012-08-12 09:00:00	Ernesto	Hagler	83800	Sacramento	CA	95893	IT
+1330	2012-08-12 09:00:00	Katherine	Barton	91900	Reno	NV	89428	Engineering
+1331	2012-08-12 09:00:00	Linda	Sadowski	85300	Phoenix	AZ	85113	Engineering
+1332	2012-08-12 09:00:00	Luis	Barrett	87000	Bakersfield	CA	93274	IT
+1333	2012-08-12 09:00:00	Lynn	Dillon	63600	Riverside	CA	92526	Technical Publications
+1334	2012-08-12 09:00:00	Richard	Love	89900	Medford	OR	97542	Engineering
+1335	2012-08-12 09:00:00	Russell	Ward	64000	San Diego	CA	91910	Operations
+1336	2012-08-13 09:00:00	Ruth	Smith	97200	Klamath Falls	OR	97647	Engineering
+1337	2012-08-19 09:00:00	Ernest	Maher	43600	Carson City	NV	89758	Sales
+1338	2012-08-19 09:00:00	Justin	Hetrick	57000	San Jose	CA	95028	Operations
+1339	2012-08-19 09:00:00	Luz	Hendricks	56700	San Jose	CA	95123	Operations
+1340	2012-08-19 09:00:00	Stacy	Faircloth	52200	Oakland	CA	94697	Operations
+1341	2012-08-26 09:00:00	Anna	Cahill	85800	Fresno	CA	93750	Accounting
+1342	2012-08-26 09:00:00	Cecile	Barber	72700	Stockton	CA	95341	Operations
+1343	2012-08-26 09:00:00	Jermaine	Knight	63100	Los Angeles	CA	90063	Operations
+1344	2012-08-26 09:00:00	Junior	Morton	85800	Los Angeles	CA	90132	Web Development
+1345	2012-08-26 09:00:00	Louise	Mendes	155700	Santa Ana	CA	92734	Legal
+1346	2012-08-26 09:00:00	Terry	Cruz	79500	Pasadena	CA	91100	IT
+1347	2012-09-02 09:00:00	Aline	Wilkerson	46300	Oakland	CA	94554	Customer Support
+1348	2012-09-02 09:00:00	Harold	Silvey	57900	Las Vegas	NV	89057	Sales
+1349	2012-09-02 09:00:00	Harry	Williams	48700	Reno	NV	89544	Sales
+1350	2012-09-02 09:00:00	Perry	Albright	48900	Sacramento	CA	95707	Sales
+1351	2012-09-02 09:00:00	Raphael	Overton	73500	Santa Rosa	CA	95430	Web Development
+1352	2012-09-02 09:00:00	Wade	Adams	41600	Phoenix	AZ	85162	Facilities Management
+1353	2012-09-02 09:00:00	Wanda	Haney	98500	Pasadena	CA	91185	Business Intelligence
+1354	2012-09-04 09:00:00	Darryl	Rogers	60600	Portland	OR	97027	Operations
+1355	2012-09-09 09:00:00	Caroline	Molina	105700	San Bernardino	CA	92318	Engineering
+1356	2012-09-09 09:00:00	Fred	Bower	66700	Santa Rosa	CA	95410	Regulatory Compliance
+1357	2012-09-09 09:00:00	Lori	Hester	56900	Santa Barbara	CA	93173	Technical Publications
+1358	2012-09-09 09:00:00	Philip	Walker	65000	Torrance	CA	90532	Quality Assurance
+1359	2012-09-10 09:00:00	Eddie	Pringle	86400	Fresno	CA	93622	Accounting
+1360	2012-09-16 09:00:00	Brian	Fraser	69400	Oakland	CA	94532	IT
+1361	2012-09-16 09:00:00	Joan	Dardar	78900	Long Beach	CA	90786	Engineering
+1362	2012-09-16 09:00:00	Mildred	Jackson	63100	Redding	CA	96023	Operations
+1363	2012-09-17 09:00:00	Mary	Lee	84500	San Mateo	CA	94413	Business Intelligence
+1364	2012-09-23 09:00:00	Federico	Maxfield	37100	Salem	OR	97354	Facilities Management
+1365	2012-09-23 09:00:00	Logan	Cordero	151300	Industry	CA	91704	Legal
+1366	2012-09-23 09:00:00	Maria	Lemieux	69600	Los Angeles	CA	90035	Quality Assurance
+1367	2012-09-23 09:00:00	Susan	Finney	49300	Long Beach	CA	90769	Sales
+1368	2012-09-23 09:00:00	Veronica	Paine	63800	San Bernardino	CA	92428	Operations
+1369	2012-09-24 09:00:00	Michael	Olvera	56200	Portland	OR	97119	Sales
+1370	2012-09-30 09:00:00	John	Rivas	95400	Phoenix	AZ	85314	Engineering
+1371	2012-09-30 09:00:00	Raymond	Tomlinson	41300	Portland	OR	97295	Customer Support
+1372	2012-09-30 09:00:00	Shannon	Jennings	54400	Las Vegas	NV	88900	Operations
+1373	2012-09-30 09:00:00	Whitney	Vance	43800	Los Angeles	CA	90109	Sales
+1374	2012-10-07 09:00:00	Armand	Barnes	64500	Pasadena	CA	91057	Quality Assurance
+1375	2012-10-07 09:00:00	Beverly	Peoples	62600	Palm Springs	CA	92232	Web Development
+1376	2012-10-07 09:00:00	Margaret	Beach	50800	Salem	OR	97365	Sales
+1377	2012-10-07 09:00:00	Ronnie	Melendez	33800	Elko	NV	89841	Facilities Management
+1378	2012-10-08 09:00:00	Bobby	Seward	74000	Santa Barbara	CA	93473	Technical Publications
+1379	2012-10-14 09:00:00	Christina	Barrett	55500	Prescott	AZ	86340	Operations
+1380	2012-10-21 09:00:00	Darlene	Griffen	49300	San Mateo	CA	94421	Sales
+1381	2012-10-21 09:00:00	Francine	Mena	71900	Klamath Falls	OR	97664	Operations
+1382	2012-10-21 09:00:00	Joseph	McClelland	48100	Long Beach	CA	90626	Sales
+1383	2012-10-21 09:00:00	Sarah	Moreland	54600	Oakland	CA	94637	Technical Publications
+1384	2012-10-28 09:00:00	Beulah	Garrett	51500	North Hollywood	CA	91621	Operations
+1385	2012-10-28 09:00:00	Carmen	Finke	44900	Reno	NV	89497	Customer Support
+1386	2012-10-28 09:00:00	Cassandra	Helms	50100	North Hollywood	CA	91659	Corporate Communication
+1387	2012-10-28 09:00:00	Darlene	Martel	94600	Bend	OR	97711	Engineering
+1388	2012-10-28 09:00:00	Jill	Wright	72000	Long Beach	CA	90733	Regulatory Compliance
+1389	2012-10-28 09:00:00	Maurice	Ducharme	64600	San Jose	CA	95017	Web Development
+1390	2012-10-29 09:00:00	Alexandra	Barton	85700	Santa Rosa	CA	94952	Accounting
+1391	2012-11-04 09:00:00	Bonnie	Alderman	104500	Fresno	CA	93626	Engineering
+1392	2012-11-04 09:00:00	Kristen	Goldman	72700	Torrance	CA	90510	IT
+1393	2012-11-04 09:00:00	Lonnie	Torres	83800	Industry	CA	91724	IT
+1394	2012-11-05 09:00:00	Eugene	Coles	43300	Burbank	CA	91547	Customer Support
+1395	2012-11-11 09:00:00	Maria	Brundage	37500	Carson City	NV	89795	Facilities Management
+1396	2012-11-18 09:00:00	Peter	Barragan	48400	Santa Monica	CA	90409	Sales
+1397	2012-11-19 09:00:00	Jeffrey	Jernigan	105300	Oakland	CA	94576	Legal
+1398	2012-11-25 09:00:00	Ahmad	Barnes	66000	Torrance	CA	90584	Marketing
+1399	2012-11-25 09:00:00	Brian	Ellis	47000	Sacramento	CA	94267	Sales
+1400	2012-12-02 09:00:00	Lee	Browne	85400	Medford	OR	97586	Engineering
+1401	2012-12-02 09:00:00	Steven	Merrill	41600	Flagstaff	AZ	86057	Facilities Management
+1402	2012-12-02 09:00:00	William	Groves	56000	Bend	OR	97750	Operations
+1403	2012-12-09 09:00:00	Amy	Downs	80200	Santa Barbara	CA	93474	Web Development
+1404	2012-12-09 09:00:00	Claude	Cutting	69000	Los Angeles	CA	90036	IT
+1405	2012-12-09 09:00:00	Myrna	White	99200	Stockton	CA	95396	Business Intelligence
+1406	2012-12-10 09:00:00	Fritz	Poole	71900	San Diego	CA	92054	Operations
+1407	2012-12-16 09:00:00	Agnes	Gilmore	66100	Van Nuys	CA	91393	Corporate Communication
+1408	2012-12-16 09:00:00	Dustin	Guruswami	43900	Oakland	CA	94551	Customer Support
+1409	2012-12-16 09:00:00	Harlan	Parham	45800	Bakersfield	CA	93346	Sales
+1410	2012-12-16 09:00:00	Joseph	Lincoln	64800	Phoenix	AZ	85129	Operations
+1411	2012-12-16 09:00:00	Myles	Sherman	110600	Inglewood	CA	90372	Engineering
+1412	2012-12-16 09:00:00	Sherry	McNair	40800	Marysville	CA	95996	Customer Support
+1413	2012-12-17 09:00:00	Kathleen	Leeper	62400	Klamath Falls	OR	97660	Operations
+1414	2012-12-17 09:00:00	Les	Horton	42100	Berkeley	CA	94747	Customer Support
+1415	2012-12-23 09:00:00	Aaron	Rutherford	87100	Portland	OR	97146	Engineering
+1416	2012-12-23 09:00:00	Allen	Levi	57200	Los Angeles	CA	90086	Operations
+1417	2012-12-23 09:00:00	Erma	Field	61800	Salinas	CA	93911	Operations
+1418	2012-12-23 09:00:00	Heather	Greco	77200	Palm Springs	CA	92224	Engineering
+1419	2012-12-23 09:00:00	John	Frost	51900	Eugene	OR	97427	Facilities Management
+1420	2012-12-23 09:00:00	Linda	Kruse	48400	Fresno	CA	93863	Sales
+1421	2012-12-23 09:00:00	Lionel	Fry	59700	Carson City	NV	89745	Sales
+1422	2012-12-23 09:00:00	Teddy	Herrera	50700	Fresno	CA	93784	Operations

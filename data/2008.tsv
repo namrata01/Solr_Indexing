@@ -1,0 +1,147 @@
+id	hiredate	firstname	lastname	salary	city	state	zipcode	department
+1	2008-07-20 09:00:00	Leo	Kimson	191800	Berkeley	CA	94783	Executive
+2	2008-07-20 09:00:00	Jeff	Burrell	182500	San Francisco	CA	94189	Data Science
+3	2008-07-20 09:00:00	Arama	Halldaw	183100	Palo Alto	CA	94382	Engineering
+4	2008-07-20 09:00:00	Nancy	Mackey	141100	Palo Alto	CA	94382	Legal
+5	2008-07-20 09:00:00	Patrick	Gale	69000	Oakland	CA	94605	Web Development
+6	2008-08-03 09:00:00	Ruth	Ortiz	53600	San Francisco	CA	94195	Customer Support
+7	2008-08-03 09:00:00	Vivian	Everett	68900	Santa Rosa	CA	94930	Quality Assurance
+8	2008-08-10 09:00:00	Randy	Bowens	96200	San Francisco	CA	94068	Marketing
+9	2008-08-17 09:00:00	Bonnie	Herrera	71800	San Mateo	CA	94489	Sales
+10	2008-08-17 09:00:00	Gina	Beckman	56100	Oakland	CA	94652	Operations
+11	2008-08-17 09:00:00	Willie	Sheets	78300	Santa Rosa	CA	94964	Facilities Management
+12	2008-08-18 09:00:00	Christina	Kindle	70000	Oakland	CA	94518	Web Development
+13	2008-08-20 09:00:00	Bennie	Davey	104600	Sacramento	CA	94274	IT
+14	2008-08-21 09:00:00	George	Henley	89000	San Francisco	CA	94048	Engineering
+15	2008-08-21 09:00:00	Jason	Frankel	160500	Palo Alto	CA	94337	Legal
+16	2008-08-21 09:00:00	Thomas	Shannon	69000	San Francisco	CA	94007	Sales
+17	2008-08-24 09:00:00	Wilfred	Lowery	153000	San Francisco	CA	94162	Legal
+18	2008-08-27 09:00:00	Henry	Zimmer	79600	Santa Rosa	CA	94967	Business Intelligence
+19	2008-08-28 09:00:00	Bonnie	Humphreys	122100	San Francisco	CA	94004	Web Development
+20	2008-08-28 09:00:00	Rose	Englert	73100	Santa Rosa	CA	94945	Operations
+21	2008-08-31 09:00:00	Brenda	Hamlin	101900	Berkeley	CA	94783	Human Resources
+22	2008-08-31 09:00:00	Edmond	Daigle	99700	San Mateo	CA	94442	Web Development
+23	2008-08-31 09:00:00	Jerry	Gardiner	91000	Santa Rosa	CA	94908	Operations
+24	2008-08-31 09:00:00	Marion	Berlin	90400	Santa Rosa	CA	94906	IT
+25	2008-09-01 09:00:00	Elmer	Hendrix	119800	Berkeley	CA	94721	Accounting
+26	2008-09-03 09:00:00	Lydia	Ley	98300	San Francisco	CA	94071	Marketing
+27	2008-09-04 09:00:00	Joe	Keith	96100	Berkeley	CA	94766	IT
+28	2008-09-04 09:00:00	Mark	Kemp	186100	Santa Rosa	CA	94998	Legal
+29	2008-09-07 09:00:00	Maria	Bone	66900	San Mateo	CA	94484	Sales
+30	2008-09-08 09:00:00	Danielle	Jones	165600	San Francisco	CA	94105	Data Science
+31	2008-09-08 09:00:00	Joyce	Jennings	121300	San Francisco	CA	94122	Accounting
+32	2008-09-08 09:00:00	Nicole	Sain	167100	San Francisco	CA	94011	Data Science
+33	2008-09-08 09:00:00	Tony	Large	104000	Sacramento	CA	94205	Business Intelligence
+34	2008-09-10 09:00:00	Diana	Williams	117500	Santa Rosa	CA	94942	Business Intelligence
+35	2008-09-10 09:00:00	Noe	Delvalle	179000	Berkeley	CA	94761	Executive
+36	2008-09-10 09:00:00	Timothy	Thames	75200	San Mateo	CA	94492	Facilities Management
+37	2008-09-14 09:00:00	David	Garcia	95200	Oakland	CA	94568	Engineering
+38	2008-09-14 09:00:00	Jeremy	Foster	113700	Santa Rosa	CA	94962	Web Development
+39	2008-09-14 09:00:00	Kristi	Pruett	106000	Oakland	CA	94568	Business Intelligence
+40	2008-09-14 09:00:00	Margarita	Marchese	157700	Palo Alto	CA	94368	Data Science
+41	2008-09-14 09:00:00	Robin	Franks	91300	San Francisco	CA	94123	Marketing
+42	2008-09-17 09:00:00	Catherine	Carney	90200	Santa Rosa	CA	94971	IT
+43	2008-09-17 09:00:00	Donovan	Snider	93700	San Mateo	CA	94450	Regulatory Compliance
+44	2008-09-17 09:00:00	Julianne	Pinder	70500	San Francisco	CA	94105	Technical Publications
+45	2008-09-17 09:00:00	Mark	Kraus	70600	Richmond	CA	94850	Purchasing
+46	2008-09-17 09:00:00	Susan	Gould	99700	San Francisco	CA	94036	Accounting
+47	2008-09-18 09:00:00	Janet	Ellison	77100	Oakland	CA	94640	Operations
+48	2008-09-21 09:00:00	Dorris	Chrisman	80500	Oakland	CA	94657	Operations
+49	2008-09-21 09:00:00	Henry	Smith	126300	Palo Alto	CA	94366	Business Intelligence
+50	2008-09-21 09:00:00	Kimberly	Carballo	68000	Santa Rosa	CA	94914	Customer Support
+51	2008-09-21 09:00:00	Sandra	Pate	86000	San Francisco	CA	94036	IT
+52	2008-09-22 09:00:00	Charlene	Nichols	43000	Palo Alto	CA	94317	Customer Support
+53	2008-09-22 09:00:00	Pauline	Berrios	95600	Berkeley	CA	94770	Operations
+54	2008-09-22 09:00:00	Wendy	Churchill	60000	Richmond	CA	94832	Sales
+55	2008-09-24 09:00:00	Louise	Neville	50400	Richmond	CA	94807	Facilities Management
+56	2008-09-24 09:00:00	Mamie	Lewis	87600	San Mateo	CA	94421	Web Development
+57	2008-09-24 09:00:00	Phillip	Rosario	94900	Sacramento	CA	94249	IT
+58	2008-09-24 09:00:00	Sandra	Wagner	61600	Berkeley	CA	94720	Customer Support
+59	2008-09-25 09:00:00	Kenneth	Buckley	69200	Richmond	CA	94801	Sales
+60	2008-09-25 09:00:00	Susan	Rider	63100	San Francisco	CA	94131	Sales
+61	2008-09-28 09:00:00	Gene	Shearer	84000	San Jose	CA	95116	Operations
+62	2008-09-28 09:00:00	Norris	Myatt	60000	Sacramento	CA	94206	Sales
+63	2008-09-29 09:00:00	Olga	Slater	59300	San Francisco	CA	94016	Sales
+64	2008-10-01 09:00:00	Bernardo	Murphy	87900	Palo Alto	CA	94396	Facilities Management
+65	2008-10-01 09:00:00	Patricia	Berger	138200	Sacramento	CA	94202	Data Science
+66	2008-10-05 09:00:00	Thomas	Talley	107000	Sacramento	CA	95708	Accounting
+67	2008-10-05 09:00:00	Willie	Cain	66200	Sacramento	CA	94285	Operations
+68	2008-10-06 09:00:00	Anne	Moore	113700	Berkeley	CA	94705	IT
+69	2008-10-06 09:00:00	Bert	Martell	64500	San Francisco	CA	94119	Facilities Management
+70	2008-10-06 09:00:00	Lila	Schaffer	75300	Berkeley	CA	94726	Sales
+71	2008-10-06 09:00:00	Patricia	Berger	129700	Sacramento	CA	94263	Engineering
+72	2008-10-06 09:00:00	Winston	Blackmon	113000	San Francisco	CA	94047	Business Intelligence
+73	2008-10-08 09:00:00	Gerald	Bentley	84300	San Mateo	CA	94438	Business Intelligence
+74	2008-10-08 09:00:00	Stewart	Box	140300	Santa Rosa	CA	94948	Legal
+75	2008-10-09 09:00:00	Lillian	Lindsay	56500	Oakland	CA	94696	Facilities Management
+76	2008-10-12 09:00:00	Joe	Pyle	73800	Palo Alto	CA	94316	Marketing
+77	2008-10-13 09:00:00	Jeffrey	Reeves	55300	San Francisco	CA	94188	Sales
+78	2008-10-13 09:00:00	Scott	Lacey	114100	Sacramento	CA	94259	IT
+79	2008-10-13 09:00:00	Tiffany	Boswell	103000	Berkeley	CA	94729	Operations
+80	2008-10-13 09:00:00	William	Lang	53100	Oakland	CA	94570	Sales
+81	2008-10-15 09:00:00	Rose	Donovan	58700	San Francisco	CA	94022	Sales
+82	2008-10-16 09:00:00	Peter	Hickey	79200	Santa Rosa	CA	94989	IT
+83	2008-10-19 09:00:00	Kimberly	Carraway	96400	Santa Rosa	CA	94961	Human Resources
+84	2008-10-20 09:00:00	Darnell	Behrens	162300	Palo Alto	CA	94368	Data Science
+85	2008-10-22 09:00:00	Elizabeth	Boland	117500	Palo Alto	CA	94353	Accounting
+86	2008-10-23 09:00:00	Barbara	Churchill	85500	Santa Rosa	CA	94940	IT
+87	2008-10-23 09:00:00	Harry	Karl	71700	Oakland	CA	94548	Operations
+88	2008-10-23 09:00:00	Myron	Vasquez	65300	San Francisco	CA	94185	Corporate Services
+89	2008-10-26 09:00:00	Alma	Mitchell	53100	Richmond	CA	94876	Facilities Management
+90	2008-10-26 09:00:00	Derrick	Rios	62400	Marysville	CA	95960	Facilities Management
+91	2008-10-26 09:00:00	Gayle	Leboeuf	63600	Oakland	CA	94609	Sales
+92	2008-10-26 09:00:00	Sabrina	Stoddard	116400	Berkeley	CA	94780	Web Development
+93	2008-10-26 09:00:00	Silas	Wilkinson	141800	Sacramento	CA	94221	Legal
+94	2008-10-29 09:00:00	Miranda	Pierce	50200	Santa Rosa	CA	94941	Customer Support
+95	2008-10-30 09:00:00	Darla	Poirier	62500	San Francisco	CA	94187	Customer Support
+96	2008-11-02 09:00:00	Julie	Lowe	123400	San Francisco	CA	94012	Business Intelligence
+97	2008-11-03 09:00:00	Linda	Robertson	82100	San Jose	CA	95138	Technical Publications
+98	2008-11-09 09:00:00	Darrell	Mark	158700	Santa Rosa	CA	94945	Legal
+99	2008-11-09 09:00:00	David	Johnston	74900	Palo Alto	CA	94345	Regulatory Compliance
+100	2008-11-09 09:00:00	Shirley	Bodine	86800	Oakland	CA	94579	Technical Publications
+101	2008-11-10 09:00:00	Beverly	Green	66800	Palo Alto	CA	94391	Sales
+102	2008-11-10 09:00:00	Erica	Traylor	58300	Santa Rosa	CA	94991	Quality Assurance
+103	2008-11-10 09:00:00	Kathryn	Wilson	93400	Santa Rosa	CA	94972	Technical Publications
+104	2008-11-10 09:00:00	Linda	Snell	80200	Santa Rosa	CA	94957	Operations
+105	2008-11-10 09:00:00	Mandy	Boudreau	87400	Sacramento	CA	95659	Web Development
+106	2008-11-16 09:00:00	Carla	Swain	98500	Marysville	CA	95914	Engineering
+107	2008-11-16 09:00:00	Missy	Maldonado	86100	Marysville	CA	95972	Operations
+108	2008-11-17 09:00:00	Alma	Eisenberg	101800	Sacramento	CA	95661	Business Intelligence
+109	2008-11-19 09:00:00	Les	Fish	66000	Oakland	CA	94698	Operations
+110	2008-11-23 09:00:00	Kurt	Souza	97600	Sacramento	CA	94271	Business Intelligence
+111	2008-11-23 09:00:00	Paula	Nye	82300	Berkeley	CA	94780	Human Resources
+112	2008-11-24 09:00:00	Ada	Rock	61200	Sacramento	CA	95718	Sales
+113	2008-11-24 09:00:00	Philip	Miles	88600	Oakland	CA	94553	Technical Publications
+114	2008-11-24 09:00:00	Thomas	Williams	68800	Berkeley	CA	94794	Customer Support
+115	2008-11-26 09:00:00	Tim	Ellison	88600	Sacramento	CA	95646	Quality Assurance
+116	2008-11-27 09:00:00	Brenda	Roth	86700	Palo Alto	CA	94333	Corporate Communication
+117	2008-11-30 09:00:00	Carmen	Tuttle	70600	Marysville	CA	95924	Customer Support
+118	2008-11-30 09:00:00	Dorris	Grant	96400	Eureka	CA	95590	Operations
+119	2008-11-30 09:00:00	Elizabeth	Cardenas	87400	Sacramento	CA	95747	Engineering
+120	2008-11-30 09:00:00	Jorge	Long	179000	San Mateo	CA	94405	Legal
+121	2008-11-30 09:00:00	Joy	Richardson	97900	San Jose	CA	95122	Web Development
+122	2008-11-30 09:00:00	Nancy	Noble	74600	Sacramento	CA	95732	Operations
+123	2008-12-04 09:00:00	Jennifer	Holman	174200	Oakland	CA	94660	Data Science
+124	2008-12-04 09:00:00	Phyllis	Kirk	71600	San Francisco	CA	94127	Technical Publications
+125	2008-12-07 09:00:00	Boris	Keck	62500	Marysville	CA	95959	Sales
+126	2008-12-07 09:00:00	Kenneth	Hernandez	57200	Sacramento	CA	95826	Customer Support
+127	2008-12-14 09:00:00	Dan	Earl	62500	Santa Rosa	CA	95497	Operations
+128	2008-12-14 09:00:00	Lori	Chapman	83100	San Jose	CA	95186	IT
+129	2008-12-14 09:00:00	Marianne	Weber	118000	Richmond	CA	94812	Engineering
+130	2008-12-14 09:00:00	Wiley	Brown	71700	San Jose	CA	95078	Technical Publications
+131	2008-12-15 09:00:00	Buddy	Henry	92100	San Mateo	CA	94412	Operations
+132	2008-12-15 09:00:00	Jessica	Grey	116300	San Mateo	CA	94426	Business Intelligence
+133	2008-12-15 09:00:00	Louise	Hinton	82800	Oakland	CA	94575	IT
+134	2008-12-15 09:00:00	Thomas	Marcano	82200	San Francisco	CA	94029	Technical Publications
+135	2008-12-21 09:00:00	Ben	Leach	80100	Richmond	CA	94838	Corporate Services
+136	2008-12-21 09:00:00	Dorothy	Malcom	85300	Berkeley	CA	94764	Web Development
+137	2008-12-21 09:00:00	Gerald	Calderon	77900	San Francisco	CA	94187	Human Resources
+138	2008-12-21 09:00:00	Romeo	Petty	91400	Marysville	CA	95990	IT
+139	2008-12-22 09:00:00	Byron	Landry	80300	Oakland	CA	94677	Operations
+140	2008-12-22 09:00:00	Jack	Percy	92400	Marysville	CA	95961	Quality Assurance
+141	2008-12-22 09:00:00	Linda	Costa	70100	Sacramento	CA	94245	Technical Publications
+142	2008-12-24 09:00:00	Josefina	Moritz	46200	Stockton	CA	95321	Customer Support
+143	2008-12-28 09:00:00	Ida	Griffith	79200	Oakland	CA	94601	Sales
+144	2008-12-28 09:00:00	Kelly	Friedman	92700	Oakland	CA	94616	Technical Publications
+145	2008-12-28 09:00:00	Marla	Gatlin	87800	Oakland	CA	94544	Quality Assurance
+146	2008-12-28 09:00:00	Rick	Shorter	68800	Palo Alto	CA	94383	Facilities Management
